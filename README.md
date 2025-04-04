@@ -3,3 +3,5 @@ Retailers to find a nearest store to replenish the product for intercompany tran
 Order online and ship from store. 
 The method applies to customers shopping online and different items based on availability at nearest stores getting
 picked for fulfillment.
+The store locator can be advanced using machine learning algoriths to find the nearest set of stores, creating clusters
+for the stores by location groups.
