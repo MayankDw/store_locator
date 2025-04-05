@@ -5,3 +5,4 @@ The method applies to customers shopping online and different items based on ava
 picked for fulfillment.
 The store locator can be advanced using machine learning algoriths to find the nearest set of stores, creating clusters
 for the stores by location groups.
+The set of stores in our article we are calling as buddy stores
