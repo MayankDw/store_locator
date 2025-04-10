@@ -6,4 +6,4 @@ picked for fulfillment.
 The store locator can be advanced using machine learning algoriths to find the nearest set of stores, creating clusters
 for the stores by location groups.
 The set of stores in our article we are calling as buddy stores
-Using machine learning algorthim k-means to separate and group the number of stores based on its traits. 
+Using machine learning algorthim k-means to group the number of stores based on its traits and decision criteria for the algorithms. 
